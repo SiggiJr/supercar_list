@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "carModel": "Compass",
+        "carMake": "Jeep",
+        "carYear": 2009
+    },
+    {
+        "id": 2,
+        "carModel": "Range Rover",
+        "carMake": "Land Rover",
+        "carYear": 1987
+    },
+    {
+        "id": 3,
+        "carModel": "626",
+        "carMake": "Mazda",
+        "carYear": 1997
+    },
+    {
+        "id": 4,
+        "carModel": "Daytona",
+        "carMake": "Dodge",
+        "carYear": 1984
+    },
+    {
+        "id": 5,
+        "carModel": "9-5",
+        "carMake": "Saab",
+        "carYear": 2005
+    },
+    {
+        "id": 6,
+        "carModel": "Ram Wagon B150",
+        "carMake": "Dodge",
+        "carYear": 1992
+    },
+    {
+        "id": 7,
+        "carModel": "S-Series",
+        "carMake": "Saturn",
+        "carYear": 2002
+    },
+    {
+        "id": 8,
+        "carModel": "Park Avenue",
+        "carMake": "Buick",
+        "carYear": 1991
+    },
+    {
+        "id": 9,
+        "carModel": "Monterey",
+        "carMake": "Mercury",
+        "carYear": 2004
+    },
+    {
+        "id": 10,
+        "carModel": "Concorde",
+        "carMake": "Chrysler",
+        "carYear": 2001
+    },
+    {
+        "id": 11,
+        "carModel": "del Sol",
+        "carMake": "Honda",
+        "carYear": 1997
+    },
+    {
+        "id": 12,
+        "carModel": "Murano",
+        "carMake": "Nissan",
+        "carYear": 2009
+    },
+    {
+        "id": 13,
+        "carModel": "Roadmaster",
+        "carMake": "Buick",
+        "carYear": 1992
+    },
+    {
+        "id": 14,
+        "carModel": "V70",
+        "carMake": "Volvo",
+        "carYear": 2010
+    },
+    {
+        "id": 15,
+        "carModel": "Rogue",
+        "carMake": "Nissan",
+        "carYear": 2012
+    },
+    {
+        "id": 16,
+        "carModel": "Ranger",
+        "carMake": "Ford",
+        "carYear": 2008
+    },
+    {
+        "id": 17,
+        "carModel": "Club Wagon",
+        "carMake": "Ford",
+        "carYear": 1995
+    },
+    {
+        "id": 18,
+        "carModel": "Elan",
+        "carMake": "Lotus",
+        "carYear": 1990
+    },
+    {
+        "id": 19,
+        "carModel": "Continental Flying Spur",
+        "carMake": "Bentley",
+        "carYear": 2011
+    },
+    {
+        "id": 20,
+        "carModel": "745",
+        "carMake": "BMW",
+        "carYear": 2004
+    }
+]
